@@ -1,1 +1,3 @@
-
+BESTHOME-2025-1MAY | Aktiv: True | Bitmə tarixi: 26.11.2025
+BESTHOME-2025-2MAY | Aktiv: True | Bitmə tarixi: 26.11.2025
+BESTHOME-2025-1MAY | Aktiv: False
